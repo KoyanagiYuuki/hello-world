@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学
 
 ソフトウェア工学とは,「**品質**」,「**コスト**」,「**納期**」の3つの最適なバランスを実現するために行う手法,方法論のことである.
